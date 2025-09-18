@@ -9,12 +9,17 @@
        src="https://camo.githubusercontent.com/3a6794f966617166912a43019a97e6cb8c3cb2d38f7a87d2b9d2006bc5a97a6a/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324663646e2e6472696262626c652e636f6d253246757365727325324634313636313025324673637265656e73686f747325324634383031313035253246636f64696e675f6465736b5f666c61745f766563746f725f75695f75785f64657369676e5f696c6c757374726174696f6e5f6d6f74696f6e5f616e696d6174696f6e5f676966322e67696626663d31266e6f66623d31266970743d336631646666666133313631613332613836313136636466316563366334363762363232306335623532303737623564343264643362386536643637643438322669706f3d696d61676573">
 </p>
 
-- 🌍 I'm based in **TAMESNA**  
-- 🔭 Building production web apps — `React` • `Laravel` • `PHP` • `MySQL`  
-- 🤝 Open to contributing to open-source teams and real-world projects  
-- 🌱 Learning: advanced React, Laravel best practices, Agile, TDD & CI/CD  
-- 🚀 Expanding my skills: Docker • CI/CD pipelines • AWS / GCP • TypeScript • System design • Automated testing  
+- 🌍 I'm based in **TAMESNA**
+ 
+- 🔭 Building production web apps — `React` • `Laravel` • `PHP` • `MySQL`
+ 
+- 🤝 Open to contributing to open-source teams and real-world projects
+ 
+- 🌱 Learning: advanced React, Laravel best practices, Agile, TDD & CI/CD
+ 
 - 📫 How to reach me: **bouhmadsoufian16@gmail.com**
+
+- 🚀 Expanding my skills: Docker • CI/CD pipelines • AWS / GCP • TypeScript • System design • Automated testing  
 
 
 ## 🌐 Socials:
