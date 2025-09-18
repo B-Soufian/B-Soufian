@@ -11,7 +11,7 @@
 - 🔭 Building production web apps — React • Laravel • PHP • MySQL  <br>
 - 🤝 Open to contributing to open-source teams and real-world projects  <br> 
 - 🌱 Learning advanced React, Laravel best practices, Agile, TDD & CI/CD  <br>
-- 📫 How to reach me: [soufianbouhmad16@gmail.com](mailto:soufianbouhmad16@gmail.com) <br>
+- 📫 How to reach me **soufianbouhmad16@gmail.com**
 - 🚀 Expanding my skills in: Docker • CI/CD pipelines • AWS/GCP • TypeScript • System design • Automated testing  
 
 ## 🌐 Socials:
