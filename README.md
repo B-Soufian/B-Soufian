@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=4711F7&center=true&vCenter=true&width=435&lines=I'm+Soufian+Bouhmad;Full+Stack+Web+Developer;Welcome+to+my+GitHub+account!" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 🌍 I'm based in TAMESNA<br>🔭 Building production web apps — React • Laravel • PHP • MySQL  <br>🤝 Open to contributing to open-source teams and real-world projects  <br>🌱 Learning advanced React, Laravel best practices, Agile, TDD & CI/CD  <br>🚀 Expanding my skills in: Docker • CI/CD pipelines • AWS/GCP • TypeScript • System design • Automated testing  
 
