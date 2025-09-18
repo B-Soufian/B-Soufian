@@ -58,7 +58,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=B-Soufian&theme=aura&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy.screw-hand.vercel.app/?username=B-Soufian&theme=dracula&no-frame=true&column=8&margin-w=8&title=Stars,Repositories,Commits,Followers,PullRequest,Reviews,MultiLanguage,Issues&wantAll=true)"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=B-Soufian&theme=dracula&no-frame=true&column=8&margin-w=8&title=Stars,Repositories,Commits,Followers,PullRequest,Reviews,MultiLanguage,Issues&wantAll=true" alt="trophies"/>
 </p>
 
 ### ✍️ Random Dev Quote
