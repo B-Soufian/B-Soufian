@@ -60,5 +60,7 @@
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=B-Soufian&icon=2&color=1"/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=B-Soufian&icon=2&color=1" alt="Visit Count"/>
+  </a>
 </p>
