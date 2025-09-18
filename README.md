@@ -59,8 +59,4 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=B-Soufian&icon=2&color=1" alt="Visit Count"/>
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=B-Soufian&icon=2&color=1)](https://visitcount.itsvg.in)
