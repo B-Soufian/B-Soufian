@@ -14,7 +14,7 @@
 - 🤝 Open to contributing to open-source teams and real-world projects  
 - 🌱 Learning: advanced React, Laravel best practices, Agile, TDD & CI/CD  
 - 🚀 Expanding my skills: Docker • CI/CD pipelines • AWS / GCP • TypeScript • System design • Automated testing  
-- 📫 How to reach me: [soufianbouhmad16@gmail.com](mailto:soufianbouhmad16@gmail.com)
+- 📫 How to reach me: **bouhmadsoufian16@gmail.com**
 
 
 ## 🌐 Socials:
