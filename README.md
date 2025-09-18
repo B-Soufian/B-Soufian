@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=4711F7&center=true&vCenter=true&&width=600&height=70&duration=4000&pause=1000&lines=I'm+Soufian+Bouhmad;Full+Stack+Web+Developer;Welcome+to+my+GitHub+account!" alt="Typing SVG" />
 </p>
 
-
 # 💫 About Me:
 🌍 I'm based in TAMESNA<br>
 🔭 Building production web apps — React • Laravel • PHP • MySQL  <br>
@@ -63,11 +62,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=B-Soufian&icon=2&color=1"/>
 </p>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=B-Soufian&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=B-Soufian&icon=2&color=1)](https://visitcount.itsvg.in)
-
