@@ -11,15 +11,15 @@
 
 - 🌍 I'm based in **TAMESNA**
  
-- 🔭 Building production web apps — `React` • `Laravel` • `PHP` • `MySQL`
+- 🔭 Building production web apps — `React` • `Laravel` • `MySQL`
  
 - 🤝 Open to contributing to open-source teams and real-world projects
  
 - 🌱 Learning: advanced React, Laravel best practices, Agile, TDD & CI/CD
  
-- 📫 How to reach me: `bouhmadsoufian16@gmail.com`
+- 📫 How to reach me: **bouhmadsoufian16@gmail.com**
 
- - 🚀 Expanding my expertise in `modern web technologies`
+ - 🚀 Expanding my expertise in **modern web technologies**
 
 
 ## 🌐 Socials:
