@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=4711F7&center=true&vCenter=true&width=435&lines=I'm+Soufian+Bouhmad;Full+Stack+Web+Developer;Welcome+to+my+GitHub+account!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=4711F7&center=true&vCenter=true&&width=500&height=70&duration=4000&pause=1000&lines=I'm+Soufian+Bouhmad;Full+Stack+Web+Developer;Welcome+to+my+GitHub+account!" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
