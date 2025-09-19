@@ -4,6 +4,10 @@
 
 ![Banner](https://github.com/user-attachments/assets/f0c5fc56-999e-4549-a2ff-0006855730f5)
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=B-Soufian&theme=dracula&no-frame=true&column=8&margin-w=8&title=Stars,Repositories,Commits,Followers,PullRequest,Reviews,MultiLanguage,Issues&wantAll=true" alt="trophies"/>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=B-Soufian&icon=2&color=1)](https://visitcount.itsvg.in)
 
@@ -60,20 +64,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Soufian&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 
-## 🏆 GitHub Trophies
+### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=B-Soufian&theme=dracula&no-frame=true&column=8&margin-w=8&title=Stars,Repositories,Commits,Followers,PullRequest,Reviews,MultiLanguage,Issues&wantAll=true" alt="trophies"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=B-Soufian&limit=5&theme=aura&combine_all_yearly_contributions=true"/>
 </p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=B-Soufian&limit=5&theme=aura&combine_all_yearly_contributions=true"/>
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=B-Soufian&icon=2&color=1)](https://visitcount.itsvg.in)
