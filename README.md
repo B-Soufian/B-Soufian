@@ -31,7 +31,6 @@
 
  - 🚀 Expanding my expertise in **modern web technologies**
 
----
 
 ## 🌐 Socials:
 <p align="center">
@@ -39,6 +38,8 @@
   <a href="https://linkedin.com/in/soufianbouhmad"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bouhmadsoufian16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
+
+---
 
 # 💻 Tech Stack:
 <p align="center">
@@ -67,6 +68,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=B-Soufian&theme=aura&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Soufian&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
+
+---
 
 ### 🔝 Top Contributed Repo
 <p align="center">
