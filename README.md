@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
+
 ---
 
 # 📊 GitHub Stats:
@@ -71,10 +72,12 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=B-Soufian&limit=5&theme=aura&combine_all_yearly_contributions=true"/>
 </p>
+
 ---
 
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
 ---
