@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=4711F7&center=true&vCenter=true&&width=600&height=70&duration=4000&pause=1000&lines=I'm+Soufian+Bouhmad;Full+Stack+Web+Developer;Welcome+to+my+GitHub+account!" alt="Typing SVG" />
 </p>
-
-![Banner](https://github.com/user-attachments/assets/c0fdfa2a-3f16-4291-849e-aad103148986)
+![banner](https://github.com/user-attachments/assets/9a1dc95a-a078-4e11-b0a9-7e7d6fc34851)
 
 [![](https://visitcount.itsvg.in/api?id=B-Soufian&icon=2&color=1)](https://visitcount.itsvg.in)
 
